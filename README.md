@@ -1,16 +1,15 @@
 # Pop&Blair-
-body {
-  background-color: #e0f7fa; /* Une couleur bleu clair pour le fond */
-  color: #0277bd; /* Texte bleu */
+
+body { background-color: #e0f7fa; /  color: #0277bd; /
 }
 
 a {
-  color: #01579b; /* Liens en bleu foncé */
+  color: #01579b; /
 }
 
 button {
-  background-color: #0288d1; /* Boutons en bleu */
-  color: white; /* Texte des boutons en blanc */
+  background-color: #0288d1; /
+  color: white; /
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
