@@ -1,4 +1,4 @@
-# Pop&Blair-
+# title : Celebrities Blog
 
 body { background-color: #e0f7fa; /  color: #0277bd; /
 }
