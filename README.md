@@ -1,2 +1,2 @@
 # Pop&Blair-
-it's a blog on stars 
+it's a blog on celebrities
